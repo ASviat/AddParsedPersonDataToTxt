@@ -49,5 +49,6 @@ public class Program {
         presenter.performAdding(myInput);
         
         myInput.close();
+        
     }
 }
